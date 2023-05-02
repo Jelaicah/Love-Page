@@ -1,0 +1,41 @@
+body {
+    background-color: #7c7c7c;
+    }
+    h1 {
+        color : white ;
+    }
+    .P1H1p1{
+        font-size: 20px;
+        color : white;
+        background-color: #555;
+        padding : 0px 0px 0px 290px;
+    }
+
+    .p2H1p1 {
+        font-size: 20px;
+        color : white;
+        background-color: #555;
+        padding : 0px 0px 0px 350px;
+    }
+    .p3H1p1
+    {
+        font-size: 20px;
+        color : white;
+        background-color: #555;
+        padding : 0px 0px 0px 390px;
+    }
+    .p3p1 {
+        font-size: 25px;
+        padding: 10px;
+
+    }
+    a {
+        color: white;
+    }
+    .p4h1{
+        padding: 35px 0px 35px 65px;
+        background-color: #555;
+    }
+    .p4p1 {
+        color: white;
+    }
